@@ -37,7 +37,7 @@ The project demonstrates sentiment analysis on text data using Python and NLP te
 
 2. Open a terminal or command prompt and navigate to the project directory.
 
-3. Run the script: `python sentiment_analysis_script.py`
+3. Run the script: `main_nltk.py`
 
 4. The script will process the text data, perform sentiment analysis, and generate a sentiment analysis result along with an emotion visualization graph.
 
@@ -68,5 +68,5 @@ The project demonstrates sentiment analysis on text data using Python and NLP te
 
 ## Conclusion
 
-This Sentiment Analysis project showcases how to process text data, analyze emotions associated with words, perform sentiment analysis, and visualize emotions using Python and NLP techniques. The provided script, `sentiment_analysis_script.py`, serves as an example of how to accomplish these tasks.
+This Sentiment Analysis project showcases how to process text data, analyze emotions associated with words, perform sentiment analysis, and visualize emotions using Python and NLP techniques. The provided script, `main_nltk.py`, serves as an example of how to accomplish these tasks.
 
